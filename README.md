@@ -76,7 +76,7 @@ https://www.baj.r.jp/battery/safety/safety16.html
 
 ·接続が完了すると、両手のOLEDに「Wi-Fi」マークと接続設備「番号」が表示されます。
 
-#  Bluetooth接続ができない場合
+##  Bluetooth接続ができない場合
 
 1．［bt＿clr］キーと［2］キーを同時に押して、再度無線接続を試みてください。
 
